@@ -1,7 +1,7 @@
 - 👋 Hi, I’m @beekiran00
-- 👀 I’m interested in Data Science and Analytics
-- 🌱 I’m currently learning R
-- 💞️ I’m looking to collaborate on any projects or ideas in DSA
+- 👀 I’m a data scientist
+- 🌱 You might say to yourself "Oh another data guy", but trust I'm different.
+- 💞️ I'm looking to start my own business in tech.
 - 📫 How to reach me www.linkedin.com/in/bhanu-kiran-b501a61b8
 
 <!---
